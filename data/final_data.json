@@ -1,5 +1,175 @@
 [
   {
+    "id": 8545710,
+    "date": "2026-09-28T20:25:00.477469+00:00",
+    "location": "Bengaluru",
+    "company": "Henkel",
+    "role": "AI Engineer 1",
+    "yoe": 0,
+    "base": 20.3,
+    "total": 22
+  },
+  {
+    "id": 8542827,
+    "date": "2026-09-27T10:11:48.036451+00:00",
+    "location": "Hyderabad",
+    "company": "Qualcomm",
+    "role": "SDE",
+    "yoe": 2.9,
+    "base": 22.66,
+    "total": 42
+  },
+  {
+    "id": 8541494,
+    "date": "2026-09-26T16:03:10.288313+00:00",
+    "location": "Bengaluru",
+    "company": "Navi",
+    "role": "SDE 1",
+    "yoe": 0,
+    "base": 25,
+    "total": 41
+  },
+  {
+    "id": 8539090,
+    "date": "2026-09-25T05:42:28.367039+00:00",
+    "location": "Lucknow",
+    "company": "Tranzita Systems",
+    "role": "SDE",
+    "yoe": 0,
+    "base": null,
+    "total": null
+  },
+  {
+    "id": 8539072,
+    "date": "2026-09-25T05:28:37.439156+00:00",
+    "location": "Gurugram",
+    "company": "HashedIn",
+    "role": "SDE 2",
+    "yoe": 2.8,
+    "base": 14,
+    "total": 16.1
+  },
+  {
+    "id": 8538152,
+    "date": "2026-09-24T14:43:51.304879+00:00",
+    "location": "Remote",
+    "company": "Future Standard",
+    "role": "Analyst",
+    "yoe": 0,
+    "base": 17,
+    "total": 19
+  },
+  {
+    "id": 8537787,
+    "date": "2026-09-24T10:55:46.905246+00:00",
+    "location": "Bengaluru",
+    "company": "Target",
+    "role": "SSE",
+    "yoe": 6,
+    "base": 40,
+    "total": 45.5
+  },
+  {
+    "id": 8537787,
+    "date": "2026-09-24T10:55:46.905246+00:00",
+    "location": "Hyderabad",
+    "company": "Marriott",
+    "role": "SSE 2",
+    "yoe": 6,
+    "base": 43.7,
+    "total": 46
+  },
+  {
+    "id": 8537309,
+    "date": "2026-09-24T05:54:21.118140+00:00",
+    "location": "Bangalore",
+    "company": "Nielsen",
+    "role": "SDE 2",
+    "yoe": 3.5,
+    "base": 26,
+    "total": 28
+  },
+  {
+    "id": 8537309,
+    "date": "2026-09-24T05:54:21.118140+00:00",
+    "location": "Hyderabad",
+    "company": "New Relic",
+    "role": "SDE 2",
+    "yoe": 3.5,
+    "base": 40,
+    "total": 45
+  },
+  {
+    "id": 8537309,
+    "date": "2026-09-24T05:54:21.118140+00:00",
+    "location": "Hyderabad",
+    "company": "Crunchyroll",
+    "role": "SDE 2",
+    "yoe": 3.5,
+    "base": 28,
+    "total": 30
+  },
+  {
+    "id": 8537281,
+    "date": "2026-09-24T05:38:15.785799+00:00",
+    "location": "India",
+    "company": "JioStar",
+    "role": "Intern",
+    "yoe": 0,
+    "base": null,
+    "total": null
+  },
+  {
+    "id": 8534609,
+    "date": "2026-09-22T13:48:04.125619+00:00",
+    "location": "Bengaluru",
+    "company": "Meesho",
+    "role": "SDE 1",
+    "yoe": 0,
+    "base": 22,
+    "total": 58.5
+  },
+  {
+    "id": 8534411,
+    "date": "2026-09-22T11:27:55.558059+00:00",
+    "location": "Bengaluru",
+    "company": "Microsoft",
+    "role": "SDE 1",
+    "yoe": 0,
+    "base": 18.5,
+    "total": 60.3
+  },
+  {
+    "id": 8533173,
+    "date": "2026-09-21T14:49:51.646989+00:00",
+    "location": "Mumbai",
+    "company": "Marsh McLennan",
+    "role": "Engineer \u2013 Native AI",
+    "yoe": 0.5,
+    "base": 13.66,
+    "total": 13.66
+  },
+  {
+    "id": 8532223,
+    "date": "2026-09-20T23:40:23.549964+00:00",
+    "location": "Bengaluru",
+    "company": "Flexport",
+    "role": "SDE 1",
+    "yoe": 1.2,
+    "base": 33,
+    "total": 61
+  },
+  {
+    "id": 8532004,
+    "date": "2026-09-20T18:40:58.670929+00:00",
+    "location": "Remote",
+    "company": "Rippling",
+    "role": "SDE 2",
+    "yoe": 2.2,
+    "base": 63,
+    "total": 75
+  },
+  {
     "id": 8528767,
     "date": "2026-09-19T03:46:03.051380+00:00",
     "location": "Noida",
