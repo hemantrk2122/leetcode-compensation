@@ -1,5 +1,85 @@
 [
   {
+    "id": 8550170,
+    "date": "2026-10-01T10:38:56.957105+00:00",
+    "location": "Bengaluru",
+    "company": "NVIDIA",
+    "role": "Senior Platform Engineer",
+    "yoe": 10,
+    "base": 56,
+    "total": 96
+  },
+  {
+    "id": 8550170,
+    "date": "2026-10-01T10:38:56.957105+00:00",
+    "location": "Remote",
+    "company": "Atlassian",
+    "role": "Infrastructure Engineer 5",
+    "yoe": 10,
+    "base": 76,
+    "total": 125
+  },
+  {
+    "id": 8550164,
+    "date": "2026-10-01T10:36:43.985982+00:00",
+    "location": "Bengaluru",
+    "company": "NVIDIA",
+    "role": "Senior Platform Engineer",
+    "yoe": 10,
+    "base": 56,
+    "total": 96
+  },
+  {
+    "id": 8550164,
+    "date": "2026-10-01T10:36:43.985982+00:00",
+    "location": "Remote",
+    "company": "Atlassian",
+    "role": "Infrastructure Engineer 5",
+    "yoe": 10,
+    "base": 76,
+    "total": 125
+  },
+  {
+    "id": 8549536,
+    "date": "2026-10-01T02:21:09.584269+00:00",
+    "location": "Bengaluru",
+    "company": "Coupang",
+    "role": "Staff Engineer",
+    "yoe": 7,
+    "base": 90,
+    "total": 134
+  },
+  {
+    "id": 8549392,
+    "date": "2026-09-30T21:35:14.996259+00:00",
+    "location": "Gurugram",
+    "company": "MongoDB",
+    "role": "SDE",
+    "yoe": 4.5,
+    "base": 51,
+    "total": 67.25
+  },
+  {
+    "id": 8549392,
+    "date": "2026-09-30T21:35:14.996259+00:00",
+    "location": "Gurugram",
+    "company": "MongoDB",
+    "role": "SDE",
+    "yoe": 4.5,
+    "base": 57,
+    "total": 73.25
+  },
+  {
+    "id": 8547534,
+    "date": "2026-09-29T19:54:48.204239+00:00",
+    "location": "Bengaluru",
+    "company": "eBay",
+    "role": "MTS 1",
+    "yoe": 5.2,
+    "base": 52,
+    "total": 71
+  },
+  {
     "id": 8545710,
     "date": "2026-09-28T20:25:00.477469+00:00",
     "location": "Bengaluru",
