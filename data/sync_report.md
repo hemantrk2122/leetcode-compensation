@@ -1,160 +1,159 @@
-# Sync Report - 2026-10-01 22:00
+# Sync Report - 2026-10-14 21:05
 
-**6 new posts found, 4 posts with 7 offers added**
+**9 new posts found, 4 posts with 7 offers added**
 
 ---
 
-## 1. Nvidia vs Atlassian | 10 Y Experience |Help me decide 
+## 1. Offer Evaluation: JPMC vs Grab
 
 ### Raw Content
 ```
-YOE: 10 years
-Location: Bengaluru
-Current CTC: 84.14 L fixed and 15 lpa RSU
+Hi Community,
 
-NVIDIA: Sr Platform Engineer, IC4
-Fixed: ₹56L + retirals
-RSU: ₹1Cr / 4 years, front-loaded
-JB: expected ₹5–10L
-Total: 96 L without JB
-ESPP
-WFH role 
-Team: AI Enablement & Process — AI platform, SRE, agentic automation, developer platform
+ I am a Java backend engineer with around 9 years of Java experience, currently with a well known payments company.
 
-Atlassian: P50 Infrastructure Engineer
-Fixed: ~₹76L
-Bonus: 15%
-RSU: 160 k Usd for 4 years
-JB: 9 L
-Total: 1.25 Cr without JB
-Remote
+**Current compensation:** 40 LPA(fixed) + 7L - annual bonus
 
-Priority: Long-term career, WLB, job stability, compensation, growth into AI/platform engineering
-Question: I am fully confused. Which would you choose and why, especially from people currently/recently at NVIDIA or Atlassian?
+ I have been interviewing since the last few months and have been able to land 2 offers.
+
+ It will be of great help if I can get points to compare both of them.
+
+ **JPMC Offer:**
+ **Role**: Lead SWE
+ **Org**: CIB, Digital Banking
+ **Compensation**: **56 LPA** + undisclosed performance bonus +(verbally was told it is 15%, both the bonuses will not be considered in the upcoming hike + bonus credit, hence will get it in Jan 2028)
+  **First year TC: 56 LPA**
+P.S.:  In the interview loop, I was informed that 9pm calls are a norm.
+
+**Grab Offer:
+Role:** Senior SWE
+**Compensation**: 
+**49.2L fixed** + Hiring Equity Grant (Vested over 4 years) ($ 27,500)
+Bonus % 15%
+Sign on Bonus ₹ 410,000
+
+**First year TC: 64- 70 LPA**
+
+Keeping in mind the learning curve, compensation , WLB, and long-term growth, asking for an honest feedback on the above options by the community.
+
+
+
+
 ```
 
 ### Parsed Offers
 
 | Company | Role | YoE | Base | Total | Location |
 |---------|------|-----|------|-------|----------|
-| NVIDIA | Senior Platform Engineer | 10 | 56 | 96 | Bengaluru |
-| Atlassian | Infrastructure Engineer 5 | 10 | 76 | 125 | Remote |
+| JPMorgan Chase | Lead Engineer | 9 | 56 | 56 | Remote |
+| Grab | SSE | 9 | 49.2 | 64 | Remote |
 
 ---
 
-## 2. NVIDIA vs Atlassian | India | 10 YOE | Help me decide
+## 2. Bajaj Finance | Data Scientist | Pune
 
 ### Raw Content
 ```
-#Compensation
+## Education & Experience
+- **Education:** B.Tech, IIT
+- **Years of Experience:** 2
+- **Prior Experience:** Startup
 
-YOE: 10 years
-Location: Bengaluru
-Current CTC: 84.14 L fixed and 15 lpa RSU
+## Previous Compensation
+- **Title/Level::** Data Scientist
+- **Base Salary:** ₹22 LPA
+- **Performance Bonus:** ₹5.5 LPA (annual payout; typically delayed by 6+ months, with ~50% payout at an average performance rating)
 
-NVIDIA: Sr Platform Engineer, IC4
-Fixed: ₹56L + retirals
-RSU: ₹1Cr / 4 years, front-loaded
-JB: expected ₹5–10L
-Total: 96 L without JB
-ESPP
-WFH role 
-Team: AI Enablement & Process — AI platform, SRE, agentic automation, developer platform
+## New Offer — Bajaj Finance
+- **Title/Level:** Data Scientist
+- **Location:** Pune
 
-Atlassian: P50 Infrastructure Engineer
-Fixed: ~₹76L
-Bonus: 15%
-RSU: 160 k Usd for 4 years
-JB: 9 L
-Total: 1.25 Cr without JB
-Remote
+### Compensation Breakdown
+- **Base Salary:** ₹28 LPA
+- **Performance Bonus:** ₹7 LPA (₹1.75 lakh quarterly; payout is almost certainly above 100%)
+- **Joining Bonus:** ₹3 lakh
+- **Relocation Allowance:** ₹1 lakh
 
-Priority: Long-term career, WLB, job stability, compensation, growth into AI/platform engineering
-Question: I am fully confused. Which would you choose and why, especially from people currently/recently at NVIDIA or Atlassian?
+**Total Annual Compensation (Target):** ₹35 LPA  
+**First-Year Compensation (Including Joining Bonus & Relocation):** ₹39 LPA
 ```
 
 ### Parsed Offers
 
 | Company | Role | YoE | Base | Total | Location |
 |---------|------|-----|------|-------|----------|
-| NVIDIA | Senior Platform Engineer | 10 | 56 | 96 | Bengaluru |
-| Atlassian | Infrastructure Engineer 5 | 10 | 76 | 125 | Remote |
+| Bajaj Finance | Data Scientist | 2 | 28 | 35 | Pune |
 
 ---
 
-## 3. Coupang | L6-1 | Staff | BLR
+## 3. OKTA vs DESHAW
 
 ### Raw Content
 ```
-YOE: 7years
-Current: Amazon
 
-Round 1 - Coding - Linked List questions similar to LRU/LFU cache
 
-Round 2 - LLD - Design a Notification system
+YOE: 8 years at a Saas company
+Current TC: 60 LPA
 
-Round 3 - HLD - Design a product review system for an e-commerce where customers can also search the reviews in keywords
+Okta Offer
 
-Round 4 - Hiring Manager round - Only behaviourial questions. explain your most complex technical problem . How you handle conflict.
+Level: Staff Software Engineer
+Location: Bangalore
+Base: 60 LPA
+Annual Bonus: 10% of base (6 LPA depending on performance)
+RSUs: $50,000 over 3 years -> 16 LPA at current conversion rate
+Relocation: 2 lacs
+Annualized TC: first year 84 LPA
 
-Round 5 - Bar raiser - Only behavioral . Why leaving Amazon, How you handle on call. what did you do is your previous role. Have you ever mentored people
+DEShaw Offer
 
-Current Compensation
-Base: 56L
-Stocks: 34L
-Total: 90LPA
+Level: Project Lead
+Location: Hyderabad
+Base: 65 LPA
+Year End Bonus: 25-30 LPA (depending on performance)
+Relocation: 1 lacs
+Annualized TC: first year 91-96 LPA
 
-Compensation offered
-Base: 90L
-Cash-in lieu: 26L (1st and 2nd year)
-Performance bonus: 9L
-Stocks: 90L (10%,20%,30%,40%) vesting
-TC: 1.34cr
-3 days in office policy
+
+Need advice to understand which offer makes more sense in the current market condition. 
+
 ```
 
 ### Parsed Offers
 
 | Company | Role | YoE | Base | Total | Location |
 |---------|------|-----|------|-------|----------|
-| Coupang | Staff Engineer | 7 | 90 | 134 | Bengaluru |
+| Okta | SSE | 8 | 60 | 84 | Bengaluru |
+| D. E. Shaw | Project Lead | 8 | 65 | 91 | Hyderabad |
 
 ---
 
-## 4. offer evaulation: MongoDB offer 
+## 4. Need urgent advice: Infosys vs Accolite
 
 ### Raw Content
 ```
-I’m currently evaluating a MongoDB offer in India and would appreciate some perspective from people who have worked at MongoDB or made a similar move.
+Hi,
+I have offers from Infosys & Accolite. I attended virtual onboarding on 8/10/2026 and physical onboarding in planned on 12/10/2026.
+I have submitted all the documents to Infosys. But did not receive any Assets or ID yet.
+Accolite is my preferred choice and it's joining date is also 12/10/2026. Can I join Accolite now or do I need to serve notice period before leaving Infosys?
 
-My current compensation is roughly:
+Package Details:-
 
-₹40 LPA base
-~12% variable
-56k USD over 4 years
-Current role is remote
-MongoDB has offered me:
+Infosys:
+21.04 LPA - fixed
+3.6 LPA - variable pay
+1 lac - joining bonus
 
-₹51 LPA base (if opt for gurgoan then 57 LPA)
-No variable
-~$67K USD RSUs over 3 years
-No joining bonus
-No relocation
-Role is hybrid
-So the main question is whether this is a meaningful enough move to justify giving up a fully remote role and moving to a hybrid setup.
-
-I'm particularly interested in:
-
-Is comp offer good for the switch ?
-
-Would appreciate opinion.
+Accolite:
+23 LPA - fixed
+1 lac - joining bonus
 ```
 
 ### Parsed Offers
 
 | Company | Role | YoE | Base | Total | Location |
 |---------|------|-----|------|-------|----------|
-| MongoDB | SDE | 4.5 | 51 | 67.25 | Gurugram |
-| MongoDB | SDE | 4.5 | 57 | 73.25 | Gurugram |
+| Infosys | SDE | - | 21.04 | 24.64 | Remote |
+| Accolite | SDE | - | 23 | 24 | Remote |
 
 ---
